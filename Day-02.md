@@ -65,7 +65,7 @@ IAM USER -- USERNAME
 KUBECTL -- USED TO TALKING WITH KUBERNETES (Kubectl is an official part of Kubernetes)
 EKSCTL -- USED TO TALK WITH AMAZON EKS ( SERVICE LEVEL) (Eksctl is used to manage AWS resources (including the EKS cluster itself) and is AWS-specific.
 
-ls -lsta -- list all in reverse order
+ls -lrta -- list all in reverse order
 
 
 
