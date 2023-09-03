@@ -61,9 +61,9 @@ IAM USER -- USERNAME
 
 1) User - creation
 2) User - access key and secret key
-3) 
 
-
+KUBECTL -- USED TO TALKING WITH KUBERNETES (Kubectl is an official part of Kubernetes)
+EKSCTL -- USED TO TALK WITH AMAZON EKS ( SERVICE LEVEL) (Eksctl is used to manage AWS resources (including the EKS cluster itself) and is AWS-specific.
 
 
 
