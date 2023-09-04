@@ -1,6 +1,7 @@
 
 MAVEN
 --
+```
 FOR JAVA -- Converted in small binaries (small files) -- MAVEN IS USED (BACK-END)
 FOR ANDROID -- GRADLE (BACK-END)
 NODESJS -- NODE (FRONT-END AND BACKEND)
@@ -10,6 +11,7 @@ NET APPS -- MS BUILD
 MAVEN -- CONVERTING 10Gb to binary of 10mb (EX) -- reads line by line 
 1) MAVEN - CONFIG FILES
 2) MAVEN - COMMANDS
+```
 
 MAVEN LIFECYCLE
 --
