@@ -27,10 +27,12 @@ MAVEN LIFECYCLE
 7) Install -- Installs the pkg in local mvn repo (.m2)
 8) Deploy -- deploy to remote repo server. 
 
+```
 1)MAVEN -- JAVA, WITH POM.XML( Product object model).
 2) MAVEN WILL only talk with POM.XML for depencies versions and etc 
 3) .m2 repo -- local repo
 4) JFrog, Nexus -- Remote repo
+```
 
 CURL VS WGET
 --
@@ -54,6 +56,7 @@ NORMAL URL -- give UI and website
 
 ![image](https://github.com/pavankumar0077/Devops-SRE/assets/40380941/671927d7-2b23-4547-b891-31065e89a35d)
 
+```
 FEDERATED URSER -- ORGANIZATION USER
 AWS KEYS -- ARE SECRET KEYS AND ACCESS KEYS
 PERSMISSION UNDER EC2 
@@ -66,6 +69,7 @@ KUBECTL -- USED TO TALKING WITH KUBERNETES (Kubectl is an official part of Kuber
 EKSCTL -- USED TO TALK WITH AMAZON EKS ( SERVICE LEVEL) (Eksctl is used to manage AWS resources (including the EKS cluster itself) and is AWS-specific.
 
 ls -lrta -- list all in reverse order
+```
 
 
 
