@@ -13,6 +13,7 @@
 3) Re-use the code
 4) Easyly understand, easy management
 5) We can call the shared library as ```@Library('lib-name') _``` this shared library present in github wrote in grovvy script.
+6) We can use one or more libraries
 
 # SONAR
 
